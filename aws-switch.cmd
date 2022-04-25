@@ -1,0 +1,1 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\temp\aws-dev" --new-window "https://eu-west-1.console.aws.amazon.com/" | "C:\Program Files\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\temp\aws-deploy" --new-window "https://eu-west-1.console.aws.amazon.com/"
